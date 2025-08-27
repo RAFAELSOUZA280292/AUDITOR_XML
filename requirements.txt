@@ -1,0 +1,4 @@
+pandas>=2.0
+streamlit>=1.36
+chardet>=5.2
+openpyxl>=3.1
